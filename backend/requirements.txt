@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+faster-whisper
+transformers
+torch
+scipy
+openai
+pydantic-settings
+python-dotenv
+sqlmodel
+psycopg2-binary
+alembic
+aiofiles
+websockets
+llama-cpp-python

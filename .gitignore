@@ -1,0 +1,39 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+backend/venv
+env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+backend/debug_cuda.py
+backend/ttstest.py
+
+# Node.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.vercel
+
+# Logs and databases
+*.log
+*.sqlite
+backend/temp_tts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files / Images (based on user request)
+mainpage.png
